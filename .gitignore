@@ -29,3 +29,5 @@ testem.log
 
 app/*.js
 app/*.map
+
+*.json
